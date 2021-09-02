@@ -5,12 +5,12 @@ The route is an energy route that routes Volts (changing cyberlinks bandwidth of
 
 The route is consists of a source, destination, value (volts and amperes), and alias.
 
-Account or contract may only have fixed amount routes that adjust with the `MaxRoutes` parameter with network governance.
+Account or contract may only have a fixed amount of routes that adjust with the `MaxRoutes` parameter with network governance.
 
 ## Routing of Energy
 
 - routing of volts will increase or decrease the bandwidth of the dedicated account
-    - onboard new neurons to a network allowing creating of cyberlinks
+    - onboard new neurons to a network, allowing creating of cyberlinks
     - adjust maximum cyberlinks rate of given dedicated account
     - adjust maximum cyberlinks rate of a given business
     - adjust maximum cyberlinks rate of a given community
@@ -26,7 +26,7 @@ Account or contract may only have fixed amount routes that adjust with the `MaxR
 ## Graph Circuits
 Graph circuit is a bundle of routes of a given account.
 The circuit allows an agent to dynamically reflect and affect what is going on in the knowledge graph.
-All agent's graph circuits are formed global network circuit.
+All agent's graph circuits formate a global network circuit.
 
 ## Energy Grid
 Energy flows through the global network's circuit and forms a global energy grid.
